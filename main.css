@@ -1,0 +1,31 @@
+body{
+    background-color: orange;
+}
+h1{
+    color: black;
+    margin: 40px 0px;
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    text-shadow:0 0 20px whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+hr{
+    width: 70%;
+    border-top: 5px solid whitesmoke;
+}
+.container{
+    width: 30%;
+    margin: 70px auto;
+}
+.container div{
+    height: auto;
+    display: inline;
+    padding: 10px;
+}
+.container div img{
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 10px whitesmoke;
+    border: 5px solid black;
+}
